@@ -42,7 +42,7 @@
 
 #### 软件下载地址(如果遇到某一个网址打不开,可尝试其他的,一个一个试,总有可以正常下载的)：
   * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
-  * 2.jsDelivr下载(永久)：[https://cdn.jsdelivr.net/gh/hongbaozhuli/AppDownload@1.2/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/](https://cdn.jsdelivr.net/gh/hongbaozhuli/AppDownload@1.2/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/)
+  * 2.jsDelivr下载(永久)：[https://cdn.jsdelivr.net/gh/miaoqidong/App@1.0/Apps/](https://cdn.jsdelivr.net/gh/miaoqidong/App@1.0/Apps/)
   * 3.github下载(永久): [https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.2](https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.2)
   * 4.蒲公英下载: [https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
   * 5.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)

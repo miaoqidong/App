@@ -51,3 +51,31 @@
 |解压缩
 |:-:|
 |![解压缩包](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/xiazai.png)|
+
+## 四、新手指导(手把手教你使用软件)
+  ### 第一步:  开启无障碍服务
+  
+  * 以 秒启动Pro 和 红包助理Pro 为例(微信版,QQ版,企微版,学会举一反三)
+
+  |①开启无障碍服务|②偶尔开启失败的解决办法|
+  |:-:|:-:|
+  |![①秒启动开启入口](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/rukou.png)|![②偶尔开启失败的解决办法](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/zhidaole.png)|
+
+  |③找到已下载的服务或应用|④根据需要选择对应的App|
+  |:-:|:-:|
+  |![③找到已下载的服务或应用](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/yingyong.png)|![④根据需要选择对应的App](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/xuanze.png)|
+  
+  |⑤点击开启无障碍服务|⑥成功开启无障碍后|
+  |:-:|:-:|
+  |![⑤点击开启无障碍服务](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/kaiqiqian.png)|![⑥成功开启无障碍后](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/kaiqihou.png)|
+
+  |⑦返回秒启动主界面查看|⑧尽情愉快的玩耍吧|
+  |:-:|:-:|
+  |![⑦返回秒启动主界面查看](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/lvse.png)|![⑧尽情愉快的玩耍吧](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/jieshao.png)|
+  
+  * 2.秒换三装(王者荣耀)
+  * 3.定时自动发送微信消息给群聊或者好友
+  * 4.微信QQ消息防撤回
+  * 5.运动刷步数
+  * 6.微信未读消息自动清理
+  * 7.完全包含红包助理Pro的所有功能(微信版,企业微信版,QQ版均包括)

@@ -53,29 +53,80 @@
 |![解压缩包](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/xiazai.png)|
 
 ## 四、新手指导(手把手教你使用软件)
-  ### 第一步:  开启无障碍服务
+  ### 以 红包助理Pro 为例 (微信版,QQ版,企微版,大同小异,学会举一反三)
   
-  * 以 秒启动Pro 和 红包助理Pro 为例(微信版,QQ版,企微版,学会举一反三)
+  ##### 第①步:  滑动欢迎页,进入软件的主界面
+  ##### 第②步:  开启无障碍服务
+
+  |①进入软件主界面|②开启无障碍服务|
+  |:-:|:-:|
+  |![①进入软件主界面](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/huanying.png)|![②开启无障碍服务](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/zhulirukou.png)|
+  
+  ##### 第③步:  找到已下载的服务或应用
+  ##### 第④步:  选择红包助理Pro
+
+  |③找到已下载的服务或应用|④选择红包助理Pro|
+  |:-:|:-:|
+  |![③找到已下载的服务或应用](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/yingyong.png)|![④选择红包助理Pro](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/xuanze.png)|
+  
+  ##### 第⑤步:  点击开启无障碍服务
+  ##### 第⑥步:  成功开启无障碍后
+  
+  |⑤点击开启无障碍服务|⑥成功开启无障碍后|
+  |:-:|:-:|
+  |![⑤点击开启无障碍服务](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/zhulikaiqiqian.png)|![⑥成功开启无障碍后](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/zhulikaiqihou.png)|
+  
+  ##### 第⑦步:  返回红包助理Pro主界面查看
+  ##### 第⑧步:  手动设置微信昵称
+
+  |⑦返回红包助理Pro主界面查看|⑧手动设置微信昵称|
+  |:-:|:-:|
+  |![⑦返回红包助理Pro主界面查看](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/zhulilvse.png)|![⑧手动设置微信昵称](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/nicheng.png)|
+  
+  ##### 第⑨步:  授权必要的权限
+  ##### 第⑩步:  主界面功能说明
+  
+  |⑨授权必要的权限|⑩主界面功能说明|
+  |:-:|:-:|
+  |![⑨授权必要的权限](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/quanxian.png)|![⑩主界面功能说明](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/gongnengjieshao.png)|
+  
+  ## 到此,已经可以自动抢红包了
+  
+  ##### 第⑪步:  更多高级设置
+  ##### 第⑫步:  微信公众号:秒启动App
+  
+  |⑪更多高级设置|⑫微信公众号:秒启动App|
+  |:-:|:-:|
+  |![⑪更多高级设置](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/kaiguan.png)|![⑫微信公众号:秒启动App](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/gongzhonghao.png)|
+  
+  
+  ## 下面 讲解  秒启动Pro 
+  
+  ##### 第①步:  开启无障碍服务
+  ##### 第②步:  偶尔开启失败的解决办法
 
   |①开启无障碍服务|②偶尔开启失败的解决办法|
   |:-:|:-:|
   |![①秒启动开启入口](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/rukou.png)|![②偶尔开启失败的解决办法](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/zhidaole.png)|
+  
+  ##### 第③步:  找到已下载的服务或应用
+  ##### 第④步:  根据需要选择对应的App
 
   |③找到已下载的服务或应用|④根据需要选择对应的App|
   |:-:|:-:|
   |![③找到已下载的服务或应用](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/yingyong.png)|![④根据需要选择对应的App](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/xuanze.png)|
   
+  ##### 第⑤步:  点击开启无障碍服务
+  ##### 第⑥步:  成功开启无障碍后
+  
   |⑤点击开启无障碍服务|⑥成功开启无障碍后|
   |:-:|:-:|
   |![⑤点击开启无障碍服务](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/kaiqiqian.png)|![⑥成功开启无障碍后](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/kaiqihou.png)|
+  
+  ##### 第⑦步:  返回秒启动主界面查看
+  ##### 第⑧步:  尽情愉快的玩耍吧
 
   |⑦返回秒启动主界面查看|⑧尽情愉快的玩耍吧|
   |:-:|:-:|
   |![⑦返回秒启动主界面查看](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/lvse.png)|![⑧尽情愉快的玩耍吧](https://gitee.com/mutoupiaoliu/AppMaYun/raw/main/miaoqidong/jieshao.png)|
   
-  * 2.秒换三装(王者荣耀)
-  * 3.定时自动发送微信消息给群聊或者好友
-  * 4.微信QQ消息防撤回
-  * 5.运动刷步数
-  * 6.微信未读消息自动清理
-  * 7.完全包含红包助理Pro的所有功能(微信版,企业微信版,QQ版均包括)

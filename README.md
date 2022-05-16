@@ -1,4 +1,4 @@
-# 滑动屏幕可查看软件的功能介绍和App下载地址:
+# 滑动屏幕查看软件的功能介绍和App下载地址:
 ## 一、前言
 无需root手机,借助安卓无障碍辅助服务,解锁安卓黑科技。
 
@@ -41,14 +41,12 @@
   |![功能入口](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/jieshao.png)|
 
 #### 软件下载地址(如果遇到某一个网址打不开,可尝试其他的,一个一个试,总有可以正常下载的)：
-  * 1.城通网盘下载：[https://url44.ctfile.com/d/36659644-48465493-bbc377?p=7788 （访问密码：7788) ](https://url44.ctfile.com/d/36659644-48465493-bbc377?p=7788)
-  * 2.城通网盘下载：[https://url44.ctfile.com/d/36659644-48465493-bbc377?p=9082 （访问密码：9082）](https://url44.ctfile.com/d/36659644-48465493-bbc377?p=9082)
-<!--   * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
+  * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
   * 2.jsDelivr下载(永久)：[https://cdn.jsdelivr.net/gh/miaoqidong/App@1.0/Apps/](https://cdn.jsdelivr.net/gh/miaoqidong/App@1.0/Apps/)
   * 3.github下载(永久): [https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.2](https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.2)
   * 4.蒲公英下载: [https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
   * 5.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
- -->
+
 #### 注意:从github下载的是.zip压缩包,需要解压缩一下才能直接安装哦：
 |解压缩
 |:-:|

@@ -2,7 +2,7 @@
 ## 一、前言
 无需root手机,借助安卓无障碍辅助服务,解锁安卓黑科技。
 
-1.【红包助理Pro-微信版】支持微信全版本,包括最新的8.0.22。
+1.【红包助理Pro-微信版】支持微信全版本,包括最新的8.0.23。
 
 2.【红包助理Pro-企业微信版】支持企业微信4.0.0-4.0.3。
 
@@ -41,11 +41,10 @@
   |![功能入口](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/jieshao.png)|
 
 #### 软件下载地址(如果遇到某一个网址打不开,可尝试其他的,一个一个试,总有可以正常下载的)：
-  * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
-  * 2.jsDelivr下载(永久)：[https://cdn.jsdelivr.net/gh/miaoqidong/App@1.0/Apps/](https://cdn.jsdelivr.net/gh/miaoqidong/App@1.0/Apps/)
-  * 3.github下载(永久): [https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.2](https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.2)
-  * 4.蒲公英下载: [https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
-  * 5.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
+  * 1.蓝奏云下载：[不一定及时更新 https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
+  * 2.城通网盘(密码:7788)：[实时更新版本  https://url44.ctfile.com/d/36659644-48465493-bbc377?p=7788](https://url44.ctfile.com/d/36659644-48465493-bbc377?p=7788)
+  * 3.蒲公英下载: [实时更新版本: https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
+ 
 
 #### 注意:从github下载的是.zip压缩包,需要解压缩一下才能直接安装哦：
 |解压缩
